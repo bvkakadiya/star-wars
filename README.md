@@ -4,6 +4,15 @@ To run this program Node.js needs to be installed. To Install Node.js go to "htt
 
 Once Node js is installed. Open the folder in a terminal. It will download as star-wars, hence navigate to star-wars folder in terminal and then run the following 2 commands.
 
-"npm install" (this should take around 2 minutes in total as it will be downloading and installing all the dependencies needed to run)
-"npm run start" (this will kick off the react build and will start the development server)
+First, install the dependencies.
+
+```
+npm install
+```
+
+To build and serve the project locally, run:
+
+```
+npm run start
 The website will be hosted on Localhost:3000
+```
